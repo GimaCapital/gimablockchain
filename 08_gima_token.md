@@ -1,0 +1,3 @@
+## GIMA Token
+
+Full GIMA Token section content...

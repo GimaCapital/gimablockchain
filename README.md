@@ -1,2 +1,3 @@
-# gimablockchain
-GimaBlockchain – RPV-20 Rug-Proof Vault Standard &amp; Smart Contracts
+# GimaBlockchain Whitepaper
+
+This repository contains the full whitepaper for **GimaBlockchain**, ready to sync with GitBook.
