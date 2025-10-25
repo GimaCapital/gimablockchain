@@ -1,3 +1,3 @@
 # Introduction
 
-Decentralized finance has transformed financial systems...
+Decentralized finance has transformed financial systems, with over $100 billion in total value locked (2024). However, persistent challenges—rug pulls, complex onboarding, operational inefficiencies, and limited cross-chain accessibility—hinder mainstream adoption. GimaBlockchain addresses these by deploying a secure, scalable protocol on Ethereum Layer-2, leveraging its cost-efficient and high-performance infrastructure. Building on its original vision of rug-proof vaults and trust badges, this updated whitepaper introduces a Relayer-first model, Gima ID, yield strategies, and a roadmap for multi-chain integration, ensuring DeFi is secure and accessible for retail users, developers, and institutions.
