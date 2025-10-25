@@ -1,0 +1,3 @@
+# GimaTrust Badges
+
+Full GimaTrust Badges content...
