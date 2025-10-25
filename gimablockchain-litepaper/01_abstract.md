@@ -1,0 +1,3 @@
+# Abstract
+
+GimaBlockchain is a decentralized finance (DeFi) security protocol deployed on Ethereum Layer-2 solutions, designed to eliminate rug pulls and democratize DeFi participation...

@@ -1,0 +1,3 @@
+# Architecture
+
+GimaBlockchain’s architecture leverages Ethereum Layer-2’s scalability and security...
