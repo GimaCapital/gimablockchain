@@ -1,3 +1,0 @@
-# Ecosystem Tools
-
-Full Ecosystem Tools content...

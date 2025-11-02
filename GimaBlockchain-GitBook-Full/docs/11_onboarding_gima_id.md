@@ -1,3 +1,0 @@
-# Onboarding & Gima ID
-
-Full Gima ID content...

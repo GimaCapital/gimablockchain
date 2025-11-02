@@ -1,3 +1,0 @@
-# Conclusion
-
-Full Conclusion content...

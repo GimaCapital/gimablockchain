@@ -1,3 +1,0 @@
-# Abstract
-
-Full Abstract content...

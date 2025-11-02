@@ -1,3 +1,0 @@
-# TokenFactory
-
-Full TokenFactory content...

@@ -1,3 +1,0 @@
-# Solution
-
-Full Solution content...

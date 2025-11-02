@@ -1,3 +1,0 @@
-# Appendices
-
-Full Appendices content...
