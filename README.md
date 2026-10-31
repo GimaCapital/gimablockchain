@@ -8,7 +8,7 @@ Full protocol and smart contract documentation for GimaBlockchain, a rug-proof v
 ## Documents
 
 - **Protocol whitepaper (18 chapters):** [`gimablockchain-litepaper/`](./gimablockchain-litepaper). Abstract, introduction, problem statement, solution, architecture, RPV-20 standard, GimaTrust badges, Gima token, token factory, yield strategies, onboarding and Gima ID, trust energy, security and governance, cross-chain expansion, ecosystem tools, roadmap, conclusion, appendices
-- **Smart contract analysis:** [`GIMA_RPV20_WHITE_PAPER_V2.md`](./GIMA_RPV20_WHITE_PAPER_V2.md). Contract-by-contract breakdown with architecture diagrams and security insights
+- **Automated contract scan:** [`CONTRACT_SCAN_2026-01-25.md`](./CONTRACT_SCAN_2026-01-25.md). Machine-generated inventory of 24 contracts with architecture diagram. Not an audit. The contracts are custom-built without OpenZeppelin, so standard-library findings require human triage.
 
 ## About GimaBlockchain
 
