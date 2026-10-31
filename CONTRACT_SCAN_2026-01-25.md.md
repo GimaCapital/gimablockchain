@@ -1,4 +1,9 @@
-# GIMA RPV Whitepaper
+> **Automated scan output, not an audit.** Generated from live Solidity source on 2026-01-25.
+> The contracts are custom-built without OpenZeppelin, so standard-library findings
+> (reentrancy, missing access control) are pattern matches that do not apply to this
+> architecture. No external audit has been performed. Findings require human triage.
+
+# GIMA RPV Contract Scan
 
 *live from Solidity source code on:* 2026-01-25 19:14:59
 
